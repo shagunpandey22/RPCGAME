@@ -5,5 +5,10 @@ Rock Paper and Scissor is a hand game usually played among two people where both
 The winner is decided based on the following:
 
 Rock beats Scissor (Rock smashes Scissor)
+
+
 Scissors beats Paper (Scissor cuts Paper)
+
+
+
 Paper beats Rock (Paper wraps Rock)
